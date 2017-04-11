@@ -11,8 +11,8 @@
 ##########
 
 01 script
-_script_ is a framework that is a center and a structure that maps relation of components
+_script_ is a framework that is a center and a structure that maps relation of components/
 
-  _components_ are {spaces, situations, ambience}
-  _subcomponents_ are {inventions, objects, clothing, light, sound}
-  _durations_ are {intervals, immediate interaction, delayed interaction, real-time}
+  _components_ are {spaces, situations, ambience}/
+  _subcomponents_ are {inventions, objects, clothing, light, sound}/
+  _durations_ are {intervals, immediate interaction, delayed interaction, real-time}/
