@@ -7,3 +7,5 @@ or remain anonymous
 if you are interested in blind collaboration, remain anonymous
 
 you may branch off from any part of the process
+
+see mark-up techniques here (how to make letters **bold** etc) https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
