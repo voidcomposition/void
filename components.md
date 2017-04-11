@@ -1,16 +1,28 @@
-**Components**
+**COMPONENTS:**
 
-**SPACES**
+
+**Spaces**
+
 1
+
 2
+
 3
 
-**SITUATIONS**
+
+**Situations**
+
 1
+
 2
+
 3
 
-**AMBIENCE**
+
+**Ambience**
+
 1
+
 2
+
 3
